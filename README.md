@@ -31,6 +31,7 @@ If you don't want to build the app yourself, you can download a build version [h
 ###### Working
 
 * Dell U2014h
+* Dell U2312HM
 * Dell U2414h
 * Dell U2415h
 * Dell U2417h
